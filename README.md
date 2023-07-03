@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Profile Banner](https://avatars.githubusercontent.com/u/19921943?v=4)
+![Profile Banner](https://www.chapter247.com/wp-content/uploads/2018/12/Sonu-1-1.jpg)
 
 ## About Me 🚀
 
@@ -21,7 +21,7 @@ A feature-rich mobile app built with React Native for managing daily tasks, remi
 
 ### [CoolLibrary](https://github.com/johndoe/CoolLibrary)
 
-A powerful and extensible library management system developed using Django. It offers features like catalog management, user authentication, and advanced search functionality.
+A powerful and extensible library management system was developed using Django. It offers features like catalog management, user authentication, and advanced search functionality.
 
 ### [SuperTool](https://github.com/johndoe/SuperTool)
 
