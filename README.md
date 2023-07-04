@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="https://images.weserv.nl/?url=www.chapter247.com/wp-content/uploads/2018/12/Sonu-1-1.jpg?v=4&h=300&w=300&fit=cover&mask=circle" />
+  <br />
+  <b>Passionate Software Engineer | Open Source Enthusiast | Tech Explorer</b>
 </p>
 
 ## About Me 🚀
@@ -48,6 +50,17 @@ I'm a firm believer in the open-source community, and I actively contribute to p
 
 - [RazorPayXNodeSDK](https://github.com/sbamniya/razorpayx-nodejs-sdk): Built from scratch and maintainging it.
 - [MongooseCLI](https://github.com/sbamniya/mongoose-cli): CLI based tool to automatically generate Controllers, Routers and models files in a NodeJS Application.
+
+## Experience 👨‍💻
+- **System Architect** at [Chapter247 Infotech](https://www.chapter247.com/) (2017-Present)
+   - Developed and maintained scalable web applications using React and NodeJS.
+   - Collaborated with cross-functional teams to deliver high-quality software solutions.
+   - Managing a team of more than 20 people.
+   - Research and Development on trending technologies and introduce new technologies in the organization.
+
+- **Software Engineer** at [Deltabee Technologies](https://deltabee.com/) (2016-2017)
+   - Developed and maintained scalable web applications using React and NodeJS.
+   - Collaborated with cross-functional teams to deliver high-quality software solutions.
 
 ## 🔥 GitHub Stats 📈
 
