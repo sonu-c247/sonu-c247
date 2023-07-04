@@ -49,16 +49,19 @@ I'm a firm believer in the open-source community, and I actively contribute to p
 - [RazorPayXNodeSDK](https://github.com/sbamniya/razorpayx-nodejs-sdk): Built from scratch and maintainging it.
 - [MongooseCLI](https://github.com/sbamniya/mongoose-cli): CLI based tool to automatically generate Controllers, Routers and models files in a NodeJS Application.
 
-## Get in Touch 📬
-
-I'm always open to collaborating on exciting projects or discussing technology. Feel free to reach out to me via email at johndoe@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sonu-bamniya).
-
-## GitHub Stats 📈
+## 🔥 GitHub Stats 📈
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonu247&show_icons=true&theme=radical)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sonu247&theme=dark&background=000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonu247&layout=compact&theme=vision-friendly-dark)
+
+## Let's Connect 📫
+I'm always open to collaborating on exciting projects or discussing technology. Feel free to connect with me
+
+- LinkedIn: [Sonu Bamniya](https://www.linkedin.com/in/sonu-bamniya)
+- Case Studies: [Chapter247](https://www.chapter247.com/case-studies/)
+- Email: sonu@chapter247.com
 
 Thank you for visiting my profile! Let's make the tech world a better place together! Happy coding! 🚀
