@@ -64,16 +64,15 @@ I'm a firm believer in the open-source community, and I actively contribute to p
 
 ## 🔥 GitHub Stats 📈
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonu247&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonu-c247&show_icons=true&theme=radical)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sonu247&theme=dark&background=000000)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sonu-c247&theme=dark&background=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonu247&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-c247&layout=compact&theme=vision-friendly-dark)
 
 ## Let's Connect 📫
 I'm always open to collaborating on exciting projects or discussing technology. Feel free to connect with me
 
-- LinkedIn: [Sonu Bamniya](https://www.linkedin.com/in/sonu-bamniya)
 - Case Studies: [Chapter247](https://www.chapter247.com/case-studies/)
 - Email: sonu@chapter247.com
 
